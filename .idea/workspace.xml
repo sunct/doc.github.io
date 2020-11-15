@@ -2,8 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1237e36e-ebf9-493f-b638-e1b0698b956d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/copy-and-paste.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/custom.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/dfa.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/doocs-md-upload-image.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/juejin.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/juex.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/logo-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/pretree.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/qrcode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/report.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/select-and-change-color-theme.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/app.141bfb8e.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/chunk-vendors.1d7e80b5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/element-icons.535877f5.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/element-icons.732389de.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/app.08a3c9ff.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/app.08a3c9ff.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/chunk-vendors.7d81dfec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/chunk-vendors.7d81dfec.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,8 +33,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -22,7 +43,38 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/app.08a3c9ff.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="e#2857#2876#0" expanded="true" />
+                <element signature="e#4187#4208#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/app.08a3c9ff.js.map">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret column="213948" selection-start-column="213948" selection-end-column="213948" />
+            </state>
+          </provider>
+          <provider editor-type-id="sourcemapFileViewerProvider" />
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>欢迎关注我的公众号</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
   </component>
   <component name="GOROOT" path="/usr/local/go" />
   <component name="Git.Settings">
@@ -32,6 +84,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/app.08a3c9ff.js.map" />
+        <option value="$PROJECT_DIR$/js/app.08a3c9ff.js" />
       </list>
     </option>
   </component>
@@ -49,8 +103,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="sct" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sct" type="462c0819:PsiDirectoryNode" />
+              <item name="doc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -79,18 +133,29 @@
       </list>
     </option>
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1605422187687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605422187687</updated>
+      <workItem from="1605422190841" duration="186000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="186000" />
+  </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="805" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -98,10 +163,15 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +182,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app.08a3c9ff.js.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret column="213948" selection-start-column="213948" selection-end-column="213948" />
+        </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app.08a3c9ff.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
