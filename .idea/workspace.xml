@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1237e36e-ebf9-493f-b638-e1b0698b956d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/app.08a3c9ff.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/app.08a3c9ff.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/app.08a3c9ff.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/js/app.08a3c9ff.js.map" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,11 +22,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/app.08a3c9ff.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="30">
+              <caret line="2" column="11634" selection-start-line="2" selection-start-column="11634" selection-end-line="2" selection-end-column="11634" />
               <folding>
                 <element signature="e#2857#2876#0" expanded="true" />
                 <element signature="e#4187#4208#0" expanded="true" />
@@ -34,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/app.08a3c9ff.js.map">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret column="213948" selection-start-column="213948" selection-end-column="213948" />
+            <state relative-caret-position="228">
+              <caret column="213662" selection-start-column="213662" selection-end-column="213662" />
             </state>
           </provider>
           <provider editor-type-id="sourcemapFileViewerProvider" />
@@ -48,8 +49,8 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>欢迎关注我的公众号</find>
       <find>../md/</find>
+      <find>欢迎关注我的公众号</find>
     </findStrings>
     <replaceStrings>
       <replace>../mdoc/</replace>
@@ -66,8 +67,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/js/app.08a3c9ff.js.map" />
         <option value="$PROJECT_DIR$/js/app.08a3c9ff.js" />
+        <option value="$PROJECT_DIR$/js/app.08a3c9ff.js.map" />
       </list>
     </option>
   </component>
@@ -124,12 +125,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605422187687</updated>
-      <workItem from="1605422190841" duration="475000" />
+      <workItem from="1605422190841" duration="996000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="475000" />
+    <option name="totallyTimeSpent" value="996000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="805" extended-state="0" />
@@ -167,20 +168,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/app.08a3c9ff.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="11634" selection-start-line="2" selection-start-column="11634" selection-end-line="2" selection-end-column="11634" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/app.08a3c9ff.js.map">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret column="213948" selection-start-column="213948" selection-end-column="213948" />
+        <state relative-caret-position="228">
+          <caret column="213662" selection-start-column="213662" selection-end-column="213662" />
         </state>
       </provider>
       <provider editor-type-id="sourcemapFileViewerProvider" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/app.08a3c9ff.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
     </entry>
   </component>
 </project>
