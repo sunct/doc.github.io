@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1237e36e-ebf9-493f-b638-e1b0698b956d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/js/app.08a3c9ff.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/app.08a3c9ff.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/app.08a3c9ff.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/js/app.08a3c9ff.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,14 +34,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/app.08a3c9ff.js.map">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret column="213662" selection-start-column="213662" selection-end-column="213662" />
+            <state relative-caret-position="318">
+              <caret column="214437" selection-start-column="214437" selection-end-column="214437" />
             </state>
           </provider>
           <provider editor-type-id="sourcemapFileViewerProvider" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="105">
+                <caret line="7" column="6" selection-end-line="7" selection-end-column="6" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -69,6 +80,7 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/app.08a3c9ff.js" />
         <option value="$PROJECT_DIR$/js/app.08a3c9ff.js.map" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -125,12 +137,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605422187687</updated>
-      <workItem from="1605422190841" duration="996000" />
+      <workItem from="1605422190841" duration="1308000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="996000" />
+    <option name="totallyTimeSpent" value="1308000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="805" extended-state="0" />
@@ -177,11 +189,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/app.08a3c9ff.js.map">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret column="213662" selection-start-column="213662" selection-end-column="213662" />
+        <state relative-caret-position="318">
+          <caret column="214437" selection-start-column="214437" selection-end-column="214437" />
         </state>
       </provider>
       <provider editor-type-id="sourcemapFileViewerProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="6" selection-end-line="7" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
