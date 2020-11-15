@@ -2,28 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1237e36e-ebf9-493f-b638-e1b0698b956d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/images/copy-and-paste.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/custom.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/dfa.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/doocs-md-upload-image.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/juejin.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/juex.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logo-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/pretree.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/qrcode.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/report.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/select-and-change-color-theme.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/app.141bfb8e.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/chunk-vendors.1d7e80b5.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/element-icons.535877f5.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/element-icons.732389de.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/app.08a3c9ff.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/app.08a3c9ff.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/chunk-vendors.7d81dfec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/chunk-vendors.7d81dfec.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,7 +49,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>欢迎关注我的公众号</find>
+      <find>../md/</find>
     </findStrings>
+    <replaceStrings>
+      <replace>../mdoc/</replace>
+    </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
     </dirStrings>
@@ -142,12 +124,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605422187687</updated>
-      <workItem from="1605422190841" duration="186000" />
+      <workItem from="1605422190841" duration="475000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="186000" />
+    <option name="totallyTimeSpent" value="475000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="805" extended-state="0" />
